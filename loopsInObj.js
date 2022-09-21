@@ -6,7 +6,7 @@ const obj={
         vill:'alampur'
 
 }
-
+// for of loop
 for(const key of Object.keys(obj)){
     console.log(key) // it will print the keys only
     console.log(obj[key]) // it will print the key value
